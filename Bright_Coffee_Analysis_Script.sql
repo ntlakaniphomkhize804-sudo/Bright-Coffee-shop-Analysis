@@ -2,7 +2,7 @@
 SELECT*
 FROM Sales.PUBLIC.COFFEE
 LIMIT 10;
-g
+
 ---Listing of categories 
 SELECT
 store_location,
@@ -24,7 +24,8 @@ ELSE 'Night'
 END AS time_buckets,
 
  -- Aggregates and COUNTS
-SUM(transaction_qty * unit_price) AS Revenue,
+
+SUM(CAST(transaction_qty AS NUMBER) * CAST(unit_price AS NUMBER)) AS revenue,
 AVG(transaction_qty * unit_price) AS Average_per_transaction,
 MIN(transaction_time) AS Opening_time,
 MAX(transaction_time) AS Closing_time,
@@ -64,10 +65,3 @@ ELSE 'Weekday'
  END
 
 ORDER BY date_of_purchase, store_location;
-
-
-
-
-
-
-
