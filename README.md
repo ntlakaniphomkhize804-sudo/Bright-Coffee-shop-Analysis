@@ -19,6 +19,8 @@ The following steps were taken to provide a meaningful analysis:
 Data inspection to check if there are any ,errors, type of data and empty spaces within the data.
 Data planning to thouroughly plan how to excecute each step and how to use the data.
 
+# METHODOLOGY
+
 # Tools utilised to implement the project:
 Miro: Data Planning
 Snowflake: Data processing using SQL.
