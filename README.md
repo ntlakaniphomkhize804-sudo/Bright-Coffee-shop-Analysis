@@ -1,0 +1,28 @@
+# Bright Cofee Shop 
+# INTRODUCTION
+Bright Coffee shop has provided a large dataset of its sales that shows the daily transactions of the company.
+The coffee shop currently operates in three dififferent locations Astoria, Hell's Kitchen and Lower Manhattan.
+With a variety of 80 products and 149 116 number of sales.
+The purpose of the analysis is to extract and process the data  to gain insights on the coffee shop's financial performance and optimal operation.
+# PROBLEM STATEMENT
+The coffee shop has not been operating at its optimal in the 6 months (January-June 2023).
+This has resulted in a new CEO being appointed in efforts to improve the shops performance.
+Currently, the financial data available is too Big in nature, making it a challenge for the new CEO to quickly assess the shops financial perfomance,
+identify opportunities and risks.
+
+Therefore, the CEO has requested the team to conduct a comprehensive deep dive on the companies sales.
+This is to help the CEO gain a deeper understanding of the shops financial position and understand how much each location is performing.
+
+# AIMS AND OBJECTIVES
+To design a comprehensive assessment on the shops performance over the last 6 months.
+The following steps were taken to provide a meaningful analysis:
+Data inspection to check if there are any ,errors, type of data and empty spaces within the data.
+Data planning to thouroughly plan how to excecute each step and how to use the data.
+
+# Tools utilised to implement the project:
+Miro: Data Planning
+Snowflake: Data processing using SQL.
+Microsoft Excel: Constructing charts and Graphs.
+PowerBI: 
+
+# Summary of Findings
