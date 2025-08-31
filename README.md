@@ -43,3 +43,10 @@ PowerPoint and Canvas: Presentation slides
 
 # Summary of Findings
 The result of the analysis are as follows:
+Hell’s Kitchen has the highest overall sales, followed closely by Astoria, with Lower Manhattan slightly behind although it has the highest breakfast performed. Sales are strongest on Fridays, making it the peak trading day across all locations, while Saturdays see a slight dip. Mornings and afternoons generate higher revenue per transaction compared to evenings, with  Lower Manhattan having significant 
+strength in morning and Astoria afternoons.  Overall, sales were steady, but opportunities exist to boost evening performance and Saturday traffic through targeted promotions or tailored offerings (upselling).
+It is highly recomended that all locations close during night time as there is little and no value generated in operating during these hours.
+
+
+
+
